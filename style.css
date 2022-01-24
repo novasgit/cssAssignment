@@ -1,3 +1,8 @@
+body{
+    overflow-x: hidden;
+    padding: 0 !important;
+}
+
 .navlist-flex{
     display: flex;
     justify-content: space-evenly;

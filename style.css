@@ -55,6 +55,8 @@ body{
 
 .bg-img{
     filter: blur(0px);
+    border-radius: 30px;
+    margin-top: 10px;
 }
 
 .experiences{
